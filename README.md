@@ -8,3 +8,5 @@ for use in Stock Synthesis, version 3 (SS3).
 
 *Note:* SS3 tracks numbers of fish in 1000s, so the reported spawning
 output will be in units of billions of eggs.
+
+Conversion from units of [eggs, mm] to [eggsx10^6, cm] was calculated as a' = (a*10^b)/1000000
